@@ -26,7 +26,7 @@ Players appear in a new world and are challenged to use its resources to build s
 
 ## **VALORANT (VALO)**
 
-![VALORANT](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Valorant_logo.svg/2560px-Valorant_logo.svg.png)
+![VALORANT](https://rgmerch-a.akamaihd.net/media/pdp-brand-images/valorant.png)
 
 Valorant is an objective-based game. Attacking teams are trying to plant the spike, so defeating all the enemies does mean they win the round. But defending teams can still lose rounds even after killing their opponents, if they don't defuse the spike in time.
 
@@ -38,4 +38,4 @@ The ultimate goal in Clash of Clans is to beat other players and be a part of a 
 
 ---
 
-*These apps are really interesting! You can browse Google or its app itself for more information and for you to learn how to play these games.You just need wifi for some games, then you can play and enjoy it. You can play these games whenever you are bored and you have nothing to do.**
+*These apps are really interesting! You can browse Google or its app itself for more information and for you to learn how to play these games.You just need wifi for some games, then you can play and enjoy it. You can play these games whenever you are bored and you have nothing to do.*
