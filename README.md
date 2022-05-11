@@ -26,7 +26,7 @@ Players appear in a new world and are challenged to use its resources to build s
 
 ## **VALORANT (VALO)**
 
-![VALORANT](https://static.wikia.nocookie.net/logopedia/images/1/1d/Valorant_logo.png/revision/latest?cb=20200304015651)
+![VALORANT](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Valorant_logo.svg/2560px-Valorant_logo.svg.png)
 
 Valorant is an objective-based game. Attacking teams are trying to plant the spike, so defeating all the enemies does mean they win the round. But defending teams can still lose rounds even after killing their opponents, if they don't defuse the spike in time.
 
