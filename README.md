@@ -1,37 +1,41 @@
 ## Welcome to GitHub Pages
+Owned by Leaunne Laquindanum
 
-You can use the [editor on GitHub](https://github.com/Leuanne/Leuanne.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# **LEISURE GAMES**
+*These are some of the games I am playing and played and it is interesting and guves me joy.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## **CALL OF DUTY (COD)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![COD](https://upload.wikimedia.org/wikipedia/commons/b/b1/Call_of_Duty_Mobile_Logo.png)
 
-```markdown
-Syntax highlighted code block
+Call of Duty: Mobile is a free-to-play shooter game developed by TiMi Studio Group and published by Activision for Android and iOS.
 
-# Header 1
-## Header 2
-### Header 3
+## **ROBLOX**
 
-- Bulleted
-- List
+![ROBLOX](https://1000logos.net/wp-content/uploads/2021/04/Roblox-logo.png)
 
-1. Numbered
-2. List
+Roblox is a vast online platform where kids can create and interact in what its makers describe as "immersive 3D worlds." Players are given the opportunity to create an avatar (player) for themselves and allotted a small amount of digital money to rent a house.
 
-**Bold** and _Italic_ and `Code` text
+## **MINECRAFT**
 
-[Link](url) and ![Image](src)
-```
+![MINECRAFT](https://logos-world.net/wp-content/uploads/2020/04/Minecraft-Logo.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Players appear in a new world and are challenged to use its resources to build shelter, find food, and craft tools to help them construct the universe they want to live in.
 
-### Jekyll Themes
+## **VALORANT (VALO)**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Leuanne/Leuanne.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![VALORANT](https://static.wikia.nocookie.net/logopedia/images/1/1d/Valorant_logo.png/revision/latest?cb=20200304015651)
 
-### Support or Contact
+Valorant is an objective-based game. Attacking teams are trying to plant the spike, so defeating all the enemies does mean they win the round. But defending teams can still lose rounds even after killing their opponents, if they don't defuse the spike in time.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## **CLASH OF CLANS (COC)**
+
+![COC](http://assets.stickpng.com/images/580b57fcd9996e24bc43c51c.png)
+
+The ultimate goal in Clash of Clans is to beat other players and be a part of a winning clan. First few days player is protected from attacks from other players but once this shield is dropped you become free game. In other words, after the shield is dropped your village will be destroyed between 1 - 3 times a day.
+
+---
+
+*These apps are really interesting! You can browse Google or its app itself for more information and for you to learn how to play these games.You just need wifi for some games, then you can play and enjoy it. You can play these games whenever you are bored and you have nothing to do.**
